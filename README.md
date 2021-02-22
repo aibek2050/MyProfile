@@ -6,3 +6,7 @@ I am a sophomore student at Suleyman Demirel University, majoring in information
 2) Blog page:
 ![Alt text](public/img/blogpage.png?raw=true "Title")
 Here are my latest blog posts
+
+3) Contact page:
+![Alt text](public/img/contact.png?raw=true "Title")
+Please fill this form in a decent manner
