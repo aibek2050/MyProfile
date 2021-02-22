@@ -8,5 +8,5 @@ I am a sophomore student at Suleyman Demirel University, majoring in information
 Here are my latest blog posts
 
 3) Contact page:
-![Alt text](public/img/contact.png?raw=true "Title")
+![Alt text](public/img/contactpage.png?raw=true "Title")
 Please fill this form in a decent manner
